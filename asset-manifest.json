@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hridayportfolio/static/css/main.03a37e9b.css",
+    "main.js": "/hridayportfolio/static/js/main.84f909a2.js",
+    "static/js/453.acca0757.chunk.js": "/hridayportfolio/static/js/453.acca0757.chunk.js",
+    "index.html": "/hridayportfolio/index.html",
+    "main.03a37e9b.css.map": "/hridayportfolio/static/css/main.03a37e9b.css.map",
+    "main.84f909a2.js.map": "/hridayportfolio/static/js/main.84f909a2.js.map",
+    "453.acca0757.chunk.js.map": "/hridayportfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03a37e9b.css",
+    "static/js/main.84f909a2.js"
+  ]
+}
